@@ -1,4 +1,8 @@
 ### Hi there 👋
+🔍 I’m a healthcare professional who iscurrently exploring the world of health informatics.
+
+🏥 I was trained in clinical medicine but has changed my career path into administrative matters, specialising in health policies and regulations.
+
 
 <!--
 **nurainimn/nurainimn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
